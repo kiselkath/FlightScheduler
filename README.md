@@ -7,8 +7,8 @@ Possible statuses (FlightStatus):
 
 * **SCHEDULED** - the flight is scheduled and there are no delays.
 * **DELAYED** - flight delayed, departure delayed for some time.
-  **DEPARTED** - the flight has departed but has not arrived yet.
-  **ARRIVED** - the plane has arrived.
+* **DEPARTED** - the flight has departed but has not arrived yet.
+*  **ARRIVED** - the plane has arrived.
 
 ---
 ### 🔄 How the status change logic works:
